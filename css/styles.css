@@ -1,0 +1,74 @@
+/*.jumbotron {*/
+    /*text-align: center;*/
+    /*background-color: #009999;*/
+/*}*/
+
+/*.button {*/
+   /*background-color: #000066*/
+/*}*/
+
+/*.well {*/
+    /*text-align: center;*/
+/*}*/
+
+/*.well-sm {*/
+    /*background-color: #ff0066;*/
+/*}*/
+
+/*.well-md {*/
+    /*background-color: #6600ff;*/
+    /*color: #f9f9f9;*/
+/*}*/
+
+/*.well-lg {*/
+    /*background-color: #ffff66;*/
+/*}*/
+
+.logo {
+    height: 75px;
+    background-color: black;
+    margin-bottom: 15px;
+}
+body {
+    margin: 25px;
+}
+.nav {
+    height: 30px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.big-box {
+    background-color: black;
+    height: 350px;
+}
+
+.bar {
+    height: 30px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.med-box {
+    height: 200px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.small-box {
+    height: 200px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.med-box2 {
+    margin-top: 50px;
+}
+
+.small-box3 {
+    margin-top: 50px;
+}
+
+.small-box4 {
+    margin-top: 50px;
+}
